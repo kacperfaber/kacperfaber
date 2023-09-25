@@ -1,16 +1,33 @@
-### Hi there 👋
+# 🙋‍♂️ Kacper Faber  🙋‍♂️
 
-<!--
-**kacperfaber/kacperfaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kacper, Full Stack Developer and Chess enthusiast
 
-Here are some ideas to get you started:
+📃 Website: [kacperfaber.pl](kacperfaber.pl)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Contact mail: *kontakt@kacperfaber.pl*
+
+
+## 🏢 Work 🏢
+For the last two years I have been working in ❤**Kotlin**❤ and lately in **TypeScript**
+
+I have knowledge about: 
+- Spring
+- Ktor
+- React
+- Mithril
+
+And I have already worked with:
+- Android
+- Capacitor
+- Python, PHP
+- Linux SSH
+- Postfix, iRedMail
+
+## 💎 Proud author of 💎
+- ChessTasks.com [chesstasks.com.pl](ChessTasks.com.pl)
+- CodzienneMotto.pl 🧷 [App Repository](github.com/kacperfaber/codziennemotto-pl-app) 🧷 [Server Repository](github.com/kacperfaber/codziennemotto_pl_server)
+- chlss [https://www.npmjs.com/package/chlss](https://www.npmjs.com/package/chlss)
+- wsl [Repository](github.com/kacperfaber/wsl)
+- Spencer.NET [Repository](github.com/kacperfaber/Spencer.NET)
+
+If you want to see more, please see my github 😉
