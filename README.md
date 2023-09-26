@@ -3,5 +3,5 @@
 - ♟ Chess enthusiast
 
 ##### Contact
-- 📃 Website: [kacperfaber.pl](kacperfaber.pl)
+- 📃 Website: [kacperfaber.pl](https://kacperfaber.pl)
 - 📧 Contact mail: *kontakt@kacperfaber.pl*
